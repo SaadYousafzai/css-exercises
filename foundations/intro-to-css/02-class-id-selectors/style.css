@@ -1,0 +1,18 @@
+.red-highlight{
+    background-color: rgb(215, 131, 131);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-element{
+    color: blue;
+    font-size: 36px;
+}
+
+.large-font{
+    font-size: 24px;
+}
+
+bold-green-highlight{
+    font-weight: 700;
+    background-color: rgb(114, 207, 157);
+}
